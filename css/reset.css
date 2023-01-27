@@ -1,0 +1,18 @@
+:root {
+    --clr-primary: #09BAA5;
+    --clr-secondary: red;
+}
+
+html {
+    font-size: 62.5%;
+    height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+}
